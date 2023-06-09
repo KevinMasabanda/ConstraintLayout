@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+
+    <string name="edittest_hind_user">Usuario</string>
+    <string name="edittest_hind_password">Contraseña</string>
+    <string name="button_text_login">Ingresar</string>
+</resources>
